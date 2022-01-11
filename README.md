@@ -23,4 +23,7 @@
 ![Scss](https://img.shields.io/badge/-Scss-black?style=for-the-badge&logo=Sass&logoColor=pink)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap&logoColor=blueviolet)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanzinchenko)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
