@@ -12,7 +12,15 @@
 **I attend conferences, meetings.**
 **I am looking for a place where I will be able to improve my knowledge and reach new heights...**
  
-###  Languages and Tools
+###  Languages and Tools I'm use :hammer:
 ![Html](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTml5)
 ![Css](https://img.shields.io/badge/-Css-black?style=for-the-badge&logo=Css3&logoColor=blue)
 ![Js](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=informational)
+
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=green)
+![NPM](https://img.shields.io/badge/-Npm-black?style=for-the-badge&logo=npm&logoColor=green)
+![Scss](https://img.shields.io/badge/-Scss-black?style=for-the-badge&logo=Sass&logoColor=pink)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap&logoColor=blueviolet)
+
+
