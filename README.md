@@ -1,9 +1,9 @@
-# Hello! I'm Yan.
+# Hello! I'm Yan :wave:
 ## Frontend Developer
 
 ![Header](https://github.com/YanZinchenko/YanZinchenko/blob/main/assets/2348030494.jpg)
 
-### About me
+### About me :boy:
 
 **I’m Yan, I’m from a Ukrain city Krivoy Rog.My knowledge in Web development started with Adobe Photoshop. I helped to create my friend panels of the user, icons and banners for this website. But all these elements were static. I wondered how I could change that. Search engines gave me three main directions for this purpose - html, css and javascript.**
 **I found many relevant articles, books, communities, video. In my free time I studied these materials and tried to apply their knowledge in practice.**
