@@ -1,5 +1,5 @@
 # Hello! I'm Yan :wave:
-## Frontend Developer
+## Frontend Developer :computer:
 
 ![Header](https://github.com/YanZinchenko/YanZinchenko/blob/main/assets/2348030494.jpg)
 
